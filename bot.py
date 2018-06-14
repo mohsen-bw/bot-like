@@ -29,9 +29,9 @@ wait = {
     'leaveRoom':True,
     'timeline':True,
     'autoAdd':True,
-    'message':"Auto Like By Alish Joker",
+    'message':"Auto Like By ℳ❍அ乌ΞŊ°β.Ѡ",
     "lang":"JP",
-    "comment":"Auto Like By Alish Joker",
+    "comment":"Auto Like By Mohsen.bw",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
@@ -77,11 +77,11 @@ def autolike():
 
 						cl.like(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],likeType=1002)
 
-						cl.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"Auto Like By Alish Joker line.me/ti/p/~joker.alish")
+						cl.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"Auto Like By mohsen.bw line.me/ti/p/~masih.00")
 
 						kk.like(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],likeType=1002)
 
-						kk.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"aʟɨsɦ ʝօҡɛʀ ɮօt")
+						kk.comment(hasil['result']['posts'][zx]['userInfo']['mid'],hasil['result']['posts'][zx]['postInfo']['postId'],"ℳ❍அ乌ΞŊ°β.Ѡ ɮօt")
 
 						print "DiLike"
 

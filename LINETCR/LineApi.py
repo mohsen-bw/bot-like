@@ -311,7 +311,7 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("\n\nBotLike By Alish Joker\nhttps://telegram.me/alihack011\n\n\n\n\n")
+      print("\n\nBotLike By Mohsen.bw\nhttps://telegram.me/mosenapp\n\n\n\n\n")
       print("mid -> " + prof.mid)
       print("name -> " + prof.displayName)
       print("authToken -> " + self.authToken)
